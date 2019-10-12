@@ -1,12 +1,10 @@
 ## Języki programowania – C
 
-* [X] Zawartość katalogu /. Katalog domowy użytkownika: pwd, ~. 
-
+* [X] Katalog domowy użytkownika: pwd, ~. 
 * [ ] Ścieżka, ścieżka względna, katalog bieżący, rodzicielski.
-
-* [ ] Pliki: tworzenie, usuwanie, przenoszenie, zmiana nazwy. Polecenia: `ls`, `tree`, `cp`, `mv`, `cd`, `rm`, `rmdir`.
-
-* VSCode + linters.
+* [ ] Pliki: tworzenie, usuwanie, przenoszenie, zmiana nazwy. 
+* [ ] Polecenia: `ls`, `tree`, `cp`, `mv`, `cd`, `rm`, `rmdir`. Wykonać `man` polecenie. 
+* [ ] Skonfigurować VSCode. Dodać rozszerzenia. Czym są linters? Zainstalować linter do kodu w C.
 
 ---
 
