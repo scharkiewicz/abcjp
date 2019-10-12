@@ -1,9 +1,14 @@
 ## Języki programowania – C
 
-* [X] Napisać program tzw. hello world
-* [ ] Przygotować programy do konwersji z F na C
+* [X] Zawartość katalogu /. Katalog domowy użytkownika: pwd, ~. 
 
-*Hello world* – program, którego jedynym celem jest wypisanie na standardowym wyjściu napisu "Hello World!" lub innego prostego komunikatu.
+* [ ] Ścieżka, ścieżka względna, katalog bieżący, rodzicielski.
+
+* [ ] Pliki: tworzenie, usuwanie, przenoszenie, zmiana nazwy. Polecenia: `ls`, `tree`, `cp`, `mv`, `cd`, `rm`, `rmdir`.
+
+* VSCode + linters.
+
+---
 
 **Hello world** – program, którego jedynym celem jest wypisanie na standardowym wyjściu napisu "Hello World!" lub innego prostego komunikatu.
 
